@@ -60,3 +60,5 @@ else:
 n = int(input())
 tt = 600-n*30
 print(tt//30)
+#this day 2 of consistently uploading my progress
+
