@@ -52,3 +52,5 @@ if b >= a*3:
     print("rain")
 else:
     print("dry")
+
+#day 3 of consistently uploading my progrss
