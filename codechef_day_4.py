@@ -43,3 +43,6 @@ r, l = map(int, input().split())
 maxx = max(r, l)
 minn = min(r, l)
 print(maxx-minn)
+
+
+# day 4 of uploading my progress consistently
