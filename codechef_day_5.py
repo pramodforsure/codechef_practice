@@ -40,3 +40,6 @@ for i in range(0, t):
         print("yes")
     else:
         print("no")
+
+
+# day 5 of uploading my progress consistently
